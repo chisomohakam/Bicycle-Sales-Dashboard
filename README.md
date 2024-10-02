@@ -1,5 +1,5 @@
 # Bicycle-Sales-Dashboard
-Aims and Objectives: This project is aimed at:
+Aims and Objectives: This project is aimed at: 
 1. Maintaining a positive brand reputation to retain market share and fend off competition.
 2. Improving customer satisfaction and in turn improve sales by effectively monitoring and identifying top sales areas.
 3. Identifing sales trend over time.
